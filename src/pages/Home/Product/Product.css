@@ -1,0 +1,17 @@
+.flex{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 8px;
+}
+.flex img{
+    width: 80%;
+    border-radius: 100px;
+    border: 1px solid white;
+}
+.btn{
+    background-color: goldenrod;
+    width: 150px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
